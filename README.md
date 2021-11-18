@@ -5,5 +5,5 @@ Hi! We are the [TOG](https://github.com/The-TOG) which is a team developing many
 
 
 
-### [MyG4mes - a platform for making and sharing games](https://team-of-games.github.io/MyG4mes/)
+### [MyG4mes - a platform for making and sharing games](https://the-tog.github.io/MyG4mes/)
 MyG4mes is a platform targeted at children and adults 8 to 40. Signing up has no age restriction. Everyone can join!
